@@ -110,7 +110,7 @@ An end-to-end machine learning project predicting student academic performance, 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshi-82319a323)
-[![X](https://img.shields.io/badge/X-Follow%20My%20Daily%20Progress-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[Himanshi475881](https://x.com/Himanshi1286))
+[![X](https://img.shields.io/badge/X-Follow%20My%20Daily%20Progress-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Himanshi1286)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Read%20My%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Himanshicom)
 
 </div>
