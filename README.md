@@ -2,7 +2,7 @@
 
 # Hi there, I'm Himanshi 👋
 
-### AI/ML Engineering Student | Building Real-World AI Solutions | Learning in Public 🚀
+### AI/ML Engineer | Building Real-World AI Solutions | Learning in Public 🚀
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+ML+Models+that+Solve+Real+Problems;Documenting+My+AI%2FML+Journey+Daily;Currently+Diving+into+Deep+Learning+%F0%9F%A7%A0&font=Fira%20Code&center=true&width=600&height=40&duration=3000&pause=1000&color=2E86C1&vCenter=true" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a BCA student with a genuine passion for building practical, end-to-end AI/ML solutions — not just notebooks that stop at `model.fit()`. I care about the full pipeline: clean data, thoughtful feature engineering, tuned models, and real deployment.
+I'm an AI/ML Engineer with a genuine passion for building practical, end-to-end AI/ML solutions — not just notebooks that stop at `model.fit()`. I care about the full pipeline: clean data, thoughtful feature engineering, tuned models, and real deployment.
 
 I believe the best way to learn is **in public**. Every project I build, every concept I crack, and every mistake I make gets documented — on this profile, on X, and on my blog. If you're on a similar journey, I'd love to connect and grow together. 🌱
 
@@ -63,25 +63,6 @@ I'm currently deep-diving into **advanced ML algorithms** and **deep learning co
 
 📅 I post daily progress, learnings, and small wins on **X (Twitter)** — follow along if you enjoy build-in-public content.
 ✍️ I write longer-form notes and breakdowns on my **Hashnode blog**, currently expanding past Day 13 with deeper AI/ML content.
-
----
-
-## 🏆 Featured Project
-
-### 🎓 Student Performance Prediction — *Flagship Project*
-![Status](https://img.shields.io/badge/Status-Deploying%20Soon-orange?style=flat-square)
-![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-blue?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-green?style=flat-square)
-
-An end-to-end machine learning project predicting student academic performance, covering the **complete ML lifecycle**:
-
-- 🧹 Data preprocessing & cleaning
-- 🛠️ Feature engineering
-- 📈 Model training using **Linear Regression** and **Random Forest**
-- 🎯 Hyperparameter tuning for optimal performance
-- 🚀 Deployment via **Streamlit** (live in the next few days)
-
-> This project represents my approach to ML: not just building a model, but shipping something usable end-to-end. Link will be added here once deployed.
 
 ---
 
