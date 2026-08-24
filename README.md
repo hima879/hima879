@@ -162,36 +162,18 @@ I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, an
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📈 GitHub Stats
-
-<!--
-  GitHub username used below: hima879
-  (from https://github.com/hima879 — case-sensitive, no @, no spaces)
--->
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=hima879&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+![Followers](https://img.shields.io/github/followers/hima879?style=for-the-badge&color=2E86C1&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/hima879?style=for-the-badge&color=6DD5FA&logo=github&logoColor=white&label=Stars)
 
 </div>
 
-<details>
-<summary>🩺 Cards not showing up? Click for a quick fix checklist</summary>
-<br/>
-
-1. **Dead domain (this was the actual bug)** — the streak card used `github-readme-streak-stats.herokuapp.com`, which Heroku shut down in 2022. Fixed to use the maintained `streak-stats.demolab.com`.
-2. **Username set to `hima879`** — double check this matches `https://github.com/hima879` exactly (case-sensitive, no @, no spaces).
-3. **Verify before pushing** — paste each image URL below directly into a new browser tab. If it renders there but not on your profile, it's a GitHub image-cache issue — hard refresh your profile page (Ctrl/Cmd+Shift+R) after pushing.
-   - `https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true`
-   - `https://streak-stats.demolab.com?user=hima879`
-   - `https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact`
-4. **Private repo stats not counting** — `count_private=true` only works if this README lives in a repo owned by that same account, and won't include orgs unless you add `&include_all_commits=true`.
-5. **The public instance is genuinely flaky** — the maintainers of github-readme-stats say plainly that the free `vercel.app` instance is best-effort and can go down under traffic/rate-limit spikes. If it keeps failing after everything above checks out, deploy your own copy for free on Vercel (fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → "Deploy" button in its README) and point the `src=` at your own `*.vercel.app` domain instead — that's the permanent fix.
-
-</details>
+<blockquote>
+The old GitHub-stats/streak-card images relied on a free third-party image service (github-readme-stats / streak-stats) that the maintainers themselves warn is <em>best-effort</em> and can go down under traffic — that's why those cards kept failing to render regardless of username. Swapped them out for <a href="https://shields.io">shields.io</a> badges above, which pull live from GitHub's own API and are far more reliable. If you'd like the bigger visual stat cards back later, the durable fix is self-hosting your own copy on Vercel (fork <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> → click its "Deploy" button → point the badge URLs at your own <code>*.vercel.app</code> domain).
+</blockquote>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
