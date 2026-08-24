@@ -165,20 +165,16 @@ I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, an
 ## 📈 GitHub Stats
 
 <!--
-  ⚠️ READ THIS BEFORE PUSHING ⚠️
-  Every "YOUR_GITHUB_USERNAME" below MUST be replaced with your exact
-  GitHub username (case-sensitive, no @, no spaces) — the one in your
-  profile URL: https://github.com/<this-part>
-  If it's left as-is, or if it's wrong, the cards will show a red
-  "Something went wrong" error image or simply not load.
+  GitHub username used below: hima879
+  (from https://github.com/hima879 — case-sensitive, no @, no spaces)
 -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=hima879&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 
 </div>
 
@@ -186,11 +182,14 @@ I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, an
 <summary>🩺 Cards not showing up? Click for a quick fix checklist</summary>
 <br/>
 
-1. **Username mismatch** — this was the actual bug: the streak card used `github-readme-streak-stats.herokuapp.com`, a domain Heroku shut down in 2022. It's now fixed to use `streak-stats.demolab.com`.
-2. **Wrong username** — swap every `YOUR_GITHUB_USERNAME` above for your real GitHub handle (found in your profile URL), not your X/Twitter handle.
-3. **Private repo stats not counting** — `count_private=true` only works if this README lives in a repo owned by that same account.
-4. **Still broken** — GitHub caches README images aggressively. Open the image URL directly in a new browser tab first to confirm it renders, then hard-refresh your profile page (Ctrl/Cmd+Shift+R).
-5. **Rate limits** — these are free public services (vercel.app / demolab.com); if they're down or slow, wait a few minutes and refresh — it's on their end, not your README.
+1. **Dead domain (this was the actual bug)** — the streak card used `github-readme-streak-stats.herokuapp.com`, which Heroku shut down in 2022. Fixed to use the maintained `streak-stats.demolab.com`.
+2. **Username set to `hima879`** — double check this matches `https://github.com/hima879` exactly (case-sensitive, no @, no spaces).
+3. **Verify before pushing** — paste each image URL below directly into a new browser tab. If it renders there but not on your profile, it's a GitHub image-cache issue — hard refresh your profile page (Ctrl/Cmd+Shift+R) after pushing.
+   - `https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true`
+   - `https://streak-stats.demolab.com?user=hima879`
+   - `https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact`
+4. **Private repo stats not counting** — `count_private=true` only works if this README lives in a repo owned by that same account, and won't include orgs unless you add `&include_all_commits=true`.
+5. **The public instance is genuinely flaky** — the maintainers of github-readme-stats say plainly that the free `vercel.app` instance is best-effort and can go down under traffic/rate-limit spikes. If it keeps failing after everything above checks out, deploy your own copy for free on Vercel (fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → "Deploy" button in its README) and point the `src=` at your own `*.vercel.app` domain instead — that's the permanent fix.
 
 </details>
 
