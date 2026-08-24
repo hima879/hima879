@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+ML+Models+that+Solve+Real+Problems;Documenting+My+AI%2FML+Journey+Daily;Currently+Diving+into+Deep+Learning+%F0%9F%A7%A0&font=Fira%20Code&center=true&width=600&height=40&duration=3000&pause=1000&color=2E86C1&vCenter=true" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshi-82319a323)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Himanshi1286)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Read%20Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@Himanshicom)
+
 </div>
 
 ---
@@ -55,6 +59,22 @@ I believe the best way to learn is **in public**. Every project I build, every c
 
 ---
 
+## 🧩 Featured Project
+
+### 📊 Online Retail Analytics Dashboard
+
+An end-to-end analytics dashboard that turns raw online retail transaction data into actionable business insights — covering data cleaning, exploratory analysis, and interactive visualizations, deployed as a live web app.
+
+🔗 **Live Dashboard:** [Streamlit App](https://onlineretailanalyticsproject-8wzfxzycjxgqmxcutnp8ef.streamlit.app/)
+
+<div align="center">
+<a href="https://onlineretailanalyticsproject-8wzfxzycjxgqmxcutnp8ef.streamlit.app/">
+<img src="https://img.shields.io/badge/Try%20the%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Try the Live Demo" />
+</a>
+</div>
+
+---
+
 ## 🌱 Currently Learning & Daily Progress
 
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square)
@@ -86,6 +106,19 @@ I'm currently deep-diving into **advanced ML algorithms** and **deep learning co
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Himanshi1286&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi1286&hide_border=true" alt="GitHub Streak" height="165" />
+
+</div>
+
+> ⚠️ Update the `username` in the stat card URLs above to your actual GitHub username if it differs from what's shown.
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -99,9 +132,5 @@ I'm currently deep-diving into **advanced ML algorithms** and **deep learning co
 ---
 
 <div align="center">
-
-### 💬 "Building. Documenting. Repeating." — that's the process, not the motto.
-
-⭐️ Thanks for stopping by my profile — feel free to explore my pinned repositories below!
-
+<sub>Thanks for stopping by — feel free to explore the live dashboard above and reach out if you'd like to collaborate! ⭐</sub>
 </div>
