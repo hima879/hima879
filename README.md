@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:6DD5FA&height=200&section=header&text=Hi%20There,%20I'm%20Himanshi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Building%20Real-World%20AI%20Solutions%20%7C%20Learning%20in%20Public%20🚀&descAlignY=55&descSize=18" width="100%"/>
@@ -14,7 +11,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-Read%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Himanshicom)
 [![Streamlit](https://img.shields.io/badge/Live%20Project-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://onlineretailanalyticsproject-8wzfxzycjxgqmxcutnp8ef.streamlit.app/)
 
-<img src="https://komarev.com/ghpvc/?username=hima879&label=Profile%20Views&color=2E86C1&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Himanshi1286&label=Profile%20Views&color=2E86C1&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -54,7 +51,7 @@ I believe the best way to learn is **in public**. Every project I build, every c
 </details>
 
 <details open>
-<summary><b>🧠 AI / Machine Learning</b></summary>
+<summary><b>🤖 AI / Machine Learning</b></summary>
 <br/>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -138,7 +135,7 @@ An end-to-end analytics dashboard that turns raw online retail transaction data 
 
 I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, and **LLMs**, with a strong focus on implementing everything hands-on rather than just studying theory.
 
-📅 I post daily progress, learnings, and small wins on **X (Twitter)** — follow along if you enjoy build-in-public content.  
+📅 I post daily progress, learnings, and small wins on **X (Twitter)** — follow along if you enjoy build-in-public content.
 ✍️ I write longer-form notes and breakdowns on my **Hashnode blog**, currently expanding past Day 13 with deeper AI/ML content.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -167,14 +164,35 @@ I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, an
 
 ## 📈 GitHub Stats
 
+<!--
+  ⚠️ READ THIS BEFORE PUSHING ⚠️
+  Every "YOUR_GITHUB_USERNAME" below MUST be replaced with your exact
+  GitHub username (case-sensitive, no @, no spaces) — the one in your
+  profile URL: https://github.com/<this-part>
+  If it's left as-is, or if it's wrong, the cards will show a red
+  "Something went wrong" error image or simply not load.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hima879&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 
 </div>
+
+<details>
+<summary>🩺 Cards not showing up? Click for a quick fix checklist</summary>
+<br/>
+
+1. **Username mismatch** — this was the actual bug: the streak card used `github-readme-streak-stats.herokuapp.com`, a domain Heroku shut down in 2022. It's now fixed to use `streak-stats.demolab.com`.
+2. **Wrong username** — swap every `YOUR_GITHUB_USERNAME` above for your real GitHub handle (found in your profile URL), not your X/Twitter handle.
+3. **Private repo stats not counting** — `count_private=true` only works if this README lives in a repo owned by that same account.
+4. **Still broken** — GitHub caches README images aggressively. Open the image URL directly in a new browser tab first to confirm it renders, then hard-refresh your profile page (Ctrl/Cmd+Shift+R).
+5. **Rate limits** — these are free public services (vercel.app / demolab.com); if they're down or slow, wait a few minutes and refresh — it's on their end, not your README.
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -193,7 +211,3 @@ I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, an
 <div align="center">
 <sub>⭐ Thanks for stopping by — check out the live dashboard above, and feel free to reach out if you'd like to collaborate!</sub>
 </div>
-```
-
----
-
