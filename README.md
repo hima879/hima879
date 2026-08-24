@@ -181,16 +181,14 @@ The old GitHub-stats/streak-card images relied on a free third-party image servi
 
 <div align="center">
 
-<!-- Try with hima879 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true&theme=radical&bg_color=0,2E86C1,6DD5FA&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
-
-<!-- Try with Himanshi1286 (your other username) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshi1286&show_icons=true&theme=radical&bg_color=0,2E86C1,6DD5FA&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
+![GitHub followers](https://img.shields.io/github/followers/hima879?style=for-the-badge&logo=github&color=2E86C1)
+![GitHub stars](https://img.shields.io/github/stars/hima879?style=for-the-badge&logo=github&color=6DD5FA)
+![GitHub contributors](https://img.shields.io/github/contributors/hima879/hima879?style=for-the-badge&logo=github&color=2E86C1)
 
 <br/>
 
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact&theme=radical&bg_color=0,2E86C1,6DD5FA&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&langs_count=8" />
+<!-- Total Contributions -->
+<img src="https://komarev.com/ghpvc/?username=hima879&label=Profile%20Views&color=2E86C1&style=for-the-badge" />
 
 </div>
 
