@@ -176,20 +176,21 @@ The old GitHub-stats/streak-card images relied on a free third-party image servi
 </blockquote>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-## 
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true&theme=radical&bg_color=0,1a1a2e,16213e,0f3460&title_color=6DD5FA&text_color=ffffff&icon_color=6DD5FA&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- Try with hima879 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hima879&show_icons=true&theme=radical&bg_color=0,2E86C1,6DD5FA&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
 
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hima879&theme=radical&background=0,1a1a2e,16213e,0f3460&ring=6DD5FA&fire=2E86C1&currStreakLabel=6DD5FA&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" />
+<!-- Try with Himanshi1286 (your other username) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshi1286&show_icons=true&theme=radical&bg_color=0,2E86C1,6DD5FA&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
 
 <br/>
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact&theme=radical&bg_color=0,1a1a2e,16213e,0f3460&title_color=6DD5FA&text_color=ffffff&icon_color=6DD5FA&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima879&layout=compact&theme=radical&bg_color=0,2E86C1,6DD5FA&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&langs_count=8" />
 
 </div>
 
