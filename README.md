@@ -162,20 +162,6 @@ I'm currently deep-diving into **advanced ML algorithms**, **deep learning**, an
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/hima879?style=for-the-badge&color=2E86C1&logo=github&logoColor=white&label=Followers)
-![Stars](https://img.shields.io/github/stars/hima879?style=for-the-badge&color=6DD5FA&logo=github&logoColor=white&label=Stars)
-
-</div>
-
-<blockquote>
-The old GitHub-stats/streak-card images relied on a free third-party image service (github-readme-stats / streak-stats) that the maintainers themselves warn is <em>best-effort</em> and can go down under traffic — that's why those cards kept failing to render regardless of username. Swapped them out for <a href="https://shields.io">shields.io</a> badges above, which pull live from GitHub's own API and are far more reliable. If you'd like the bigger visual stat cards back later, the durable fix is self-hosting your own copy on Vercel (fork <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> → click its "Deploy" button → point the badge URLs at your own <code>*.vercel.app</code> domain).
-</blockquote>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
 
